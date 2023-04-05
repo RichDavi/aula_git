@@ -1,2 +1,2 @@
 # aula_git
-aula de introdução ao GH- GitHub
+Aula de introdução ao GH- GitHub
